@@ -1,2 +1,2 @@
-# GoofleProject
-Google Search Recreation Project
+# google-homepage
+The Odin Project
