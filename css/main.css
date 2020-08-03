@@ -1,0 +1,49 @@
+/* Main CSS */
+
+.NavBar {
+    height:40px;
+}
+
+.QuickShortcuts {
+    float:right;
+    list-style:none;
+}
+
+.GoogleApps {
+    float:right;
+}
+
+.SignIn {
+    float:right;
+}
+
+.shortcutitems {
+    float:left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.GoogleLogo {
+    height:350px;
+    position:bottom;
+}
+
+.FooterLower {
+    height:50px;
+}
+
+.FooterLeft {
+    float:left;
+}
+
+.FooterRight {
+    float:right;
+}
+
+.FooterLowerLeft {
+    float:left;
+}
+
+.FooterLowerRight {
+    float:left;
+}
