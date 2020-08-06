@@ -24,8 +24,27 @@
 }
 
 .GoogleLogo {
-    height:350px;
-    position:bottom;
+    margin-top:110px;
+    padding-left:42%;
+
+}
+
+.search-bar {
+    margin-top:10px;
+    padding-top:40px;   
+    padding-left:35%;
+    width:100px;
+}
+
+.search-bar-text {
+    width:550px;
+    border-radius:20px;
+    height:40px;
+}
+
+.search-button {
+ 
+    padding-left:35%
 }
 
 .FooterLower {
